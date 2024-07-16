@@ -1,7 +1,7 @@
 # Advanced-Rocket-Simulator-using-RK4-and-PyQt5
 
 
-
+![Screenshot 2024-07-16 202618](https://github.com/user-attachments/assets/074e52e4-533d-45ba-9986-a7a7d15d4298)
 
 Welcome to the **Advanced Rocket Simulator**, a powerful and interactive simulation tool designed to model rocket trajectories with precision. Built using Python, PyQt5, and Matplotlib, this application leverages the Runge-Kutta 4th Order (RK4) method for accurate numerical integration. Whether you're an aerospace enthusiast, a student, or a professional, this simulator offers an intuitive interface and robust features to visualize and analyze rocket dynamics.
 
